@@ -1,0 +1,8 @@
+.abc{
+    -fx-background-image: url("file:F:\Black.jpg");
+     -fx-background-size: stretch;
+}
+.AdminUser{
+    -fx-background-image: url("file:F:\Login3.jpg");
+    -fx-background-size: stretch;
+}

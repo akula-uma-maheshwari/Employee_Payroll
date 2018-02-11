@@ -1,0 +1,15 @@
+.anchor{
+    -fx-background-image: url("file:F:\Login3.jpg");
+    -fx-background-size: stretch;
+}
+
+.addEmpButton{
+    -fx-background-image: url("file:F:\Add_Employee.png");
+}
+.EmpReg{
+    -fx-background-image: url("file:F:\empReg.jpg");
+    -fx-background-size: matchParent;
+}
+.Photo{
+    -fx-background-image: url("file:F:\Photo.jpg");
+}
